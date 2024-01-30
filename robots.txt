@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
-Sitemap: http://qhan.wang/sitemap-index.xml
-Host: qhan.wang
+Sitemap: https://gatsby.qhan.wang/sitemap.xml
+Host: https://gatsby.qhan.wang
