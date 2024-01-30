@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: http://qhan.wang/sitemap-index.xml
+Host: qhan.wang
